@@ -10,7 +10,7 @@ This is a complete React application that uses **local storage** to manage user 
 - **Responsive UI**: User-friendly interface for all screen sizes.
 - **State Management**: Efficient data flow with React state.
 - **API Integration**: Fetch and display external data.
-- **Routing**: Navigate between views using React Router.  
+- **Routing**: Navigate between views using React Router.   
 - **Testing**: Unit and integration tests for reliability.
 
 ## Tech Stack
